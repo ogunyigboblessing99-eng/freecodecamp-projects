@@ -6,6 +6,7 @@ This repository contains my learning journey as I work through FreeCodeCamp's we
 
 ### Responsive Web Design
 - **Camperbot Profile Debug Lab** - Debugging HTML structure and CSS styling
+- **Pet Adoption Page Debug Lab** - Debugging page layout and accessibility
 - *(More projects coming soon as I progress!)*
 
 ## 🛠️ Technologies & Skills
